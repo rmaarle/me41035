@@ -7,7 +7,7 @@ are confirmed.
 .. class:: table table-striped table-bordered
 
 == ==========  ====================================  =========================  ===============
-#  Date        Topic                                 Materials                  Assignment Due
+#  Date        Topic                                 Instructor                 Assignment Due
 == ==========  ====================================  =========================  ===============
 01 M May 31    Introduction
 02 T Jun 01    TBA
