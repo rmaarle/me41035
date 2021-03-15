@@ -7,7 +7,7 @@ import yaml
 # TODO : Theme puts the author's name below the logo, should put sitename (i.e.
 # it assumes this is a blog).
 AUTHOR = 'Jason K. Moore'
-SITENAME = 'ME41035: Special Topics in Sports Engineering'
+SITENAME = 'Special Topics in<br> Sports Engineering'
 SITEURL = ''
 SOURCEURL = 'https://github.com/moorepants/me41035'
 
@@ -30,7 +30,7 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_ORDER_BY = 'sortorder'
 
-MENUITEMS = [('Blog', '/blog/')]
+#MENUITEMS = [('Blog', '/blog/')]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -60,11 +60,12 @@ else:
 ## THEME
 
 # Alchemy theme settings
-#DISQUS_SITENAME = "mechmotum"
-SITESUBTITLE = 'E pur si muove'
-SITEIMAGE = 'https://objects-us-east-1.dream.io/moorepants/jason-bicycle-mo-cap.jpg'
-# INSTITUTEIMAGE should bee 100px in height
-INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
+#DISQUS_SITENAME = ""
+SITESUBTITLE = 'ME41035 Summer 2021'
+#SITEIMAGE = 'https://objects-us-east-1.dream.io/moorepants/jason-bicycle-mo-cap.jpg'
+SITEIMAGE = 'https://wiredchop.files.wordpress.com/2019/08/john-blog-images.png'
+# INSTITUTEIMAGE should be 100px in height
+#INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
 DESCRIPTION = ''
 # pelican-alchemy removed the original theme.css, so bring it back.
 THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']

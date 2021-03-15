@@ -13,7 +13,7 @@ from pelicanconf import *
 THEME = "pelican-alchemy/alchemy"
 PLUGIN_PATHS = "pelican-plugins"
 
-SITEURL = 'https://moorepants.github.io/me41305'
+SITEURL = 'https://moorepants.github.io/me41035'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
