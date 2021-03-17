@@ -62,8 +62,7 @@ else:
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
 SITESUBTITLE = 'ME41035 Summer 2021'
-#SITEIMAGE = 'https://objects-us-east-1.dream.io/moorepants/jason-bicycle-mo-cap.jpg'
-SITEIMAGE = 'https://wiredchop.files.wordpress.com/2019/08/john-blog-images.png'
+SITEIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/cyclist-sketch-john-hart.png'
 # INSTITUTEIMAGE should be 100px in height
 #INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
 DESCRIPTION = ''
