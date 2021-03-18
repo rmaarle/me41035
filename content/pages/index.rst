@@ -83,6 +83,13 @@ with activities scheduled throughout the day from Monday to Friday each week.
 **Due to the ongoing coronavirus situation, the course will be held
 virtually.**
 
+Credits
+=======
+
+The course is designed as a 3 EC course, but packed into two weeks. Some of the
+participating universities will award you the credits; ask your coordinator for
+more information.
+
 Registration
 ============
 
@@ -129,7 +136,6 @@ Course Organizers
 | BioMechanical Engineering, Delft University of Technology
 | j.k.moore@tudelft.nl
 |
-
 | Dijana Boric
 | Office Manager
 | Sports Engineering Institute, Delft University of Technology
