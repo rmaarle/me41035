@@ -30,15 +30,17 @@ lecturers participation. **Times and topics will be adjusted.**
    |_|       11:00-16:00  Activity  Work on assignment 1
    |_|       16:00-17:00  Activity  Report on assignment 1
    --------  -----------  --------  --------------------------------------------------  -------------------------
-   F Jun 04  10:00-12:00  Lecture   Thermo Physiology
+   F Jun 04  10:00-12:00  Lecture   DIY Smartphone Measurement and Analysis for Sports
    |_|       15:00-16:00  Lecture   Sports Engineering at a Company
    |_|       16:00-17:00  Activity  Social
    --------  -----------  --------  --------------------------------------------------  -------------------------
-   M Jun 07  10:00-12:00  Lecture   Power in Eudurance Sports
-   |_|       13:00-13:30            Assignment 2 Introduciton
-   |_|       13:30-17:00  Activity  Work on Assignment 2
+   M Jun 07  10:00-12:00  Lecture   Thermo Physiology
+             13:00-15:00  Lecture   Power in Eudurance Sports
+   |_|       15:00-15:30            Assignment 2 Introduciton
+   |_|       15:30-17:00  Activity  Work on Assignment 2
    --------  -----------  --------  --------------------------------------------------  -------------------------
    T Jun 08  10:00-12:00  Lecture   Material Doping
+   |_|       13:30-16:00  Activity  Work on Assignment 2
    |_|       16:00-17:00  Activity  Report on Assignment 2
    --------  -----------  --------  --------------------------------------------------  -------------------------
    W Jun 09  10:00-12:00  Lecture   Bicycle design in industry and education
