@@ -26,3 +26,9 @@ How will the course be delivered given the coronavirus measures?
    will be performed at home using simple engineering tools and methods. For
    team members that happen to be in the same location, they may work together
    in person as long as they are following the local coronavirus regulations.
+
+Can I register myself?
+
+   Each University will have a different way to register. See the information
+   provided on the `main page <{filename}/pages/index.rst#registration>`_ or
+   contact the coordinator at your University.
