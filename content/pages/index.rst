@@ -103,7 +103,7 @@ filled on a first come, first serve basis.
 Reach out to your university's coordinator to find out how to register:
 
 .. list-table::
-   :class: table table-striped
+   :class: table table-striped table-bordered
    :header-rows: 1
    :widths: auto
 
@@ -114,7 +114,7 @@ Reach out to your university's coordinator to find out how to register:
      - Email
    * - Delft University of Technology
      - 15
-     - Regsiter via Brightspace
+     - Via Brightspace
      - Dijana Boric
      - D.Boric@tudelft.nl
    * - Sheffield Hallam University
@@ -179,7 +179,7 @@ Participating Universities
 --------------------------
 
 .. list-table::
-   :class: table
+   :class: table table-bordered
 
    * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-aalborg.png
           :height: 100px
