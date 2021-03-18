@@ -94,9 +94,9 @@ Registration
 ============
 
 Students will register with the coordinator at their home university. There are
-limited slots for students from each of the participating universities. Excess
-students will be placed on a waiting list. Slots will be filled on a first
-come, first serve basis.
+a guaranteed number of slots for students from each of the participating
+universities. Excess students will be placed on a waiting list. Slots will be
+filled on a first come, first serve basis.
 
 **Registration deadline is April 16, 2021.**
 
@@ -105,26 +105,41 @@ Reach out to your university's coordinator to find out how to register:
 .. list-table::
    :class: table table-striped
    :header-rows: 1
+   :widths: auto
 
    * - University
+     - Slots
+     - How to Register
      - Coordinator
      - Email
    * - Delft University of Technology
+     - 15
+     - Regsiter via Brightspace
      - Dijana Boric
      - D.Boric@tudelft.nl
    * - Sheffield Hallam University
+     - 5
+     - Email coordinator
      - John Hart
      - John.Hart@shu.ac.uk
    * - Aalborg Universitet
+     - 5
+     - Email coordinator
      - Mark de Zee, Pascal Max Madeleine
      - mdz@hst.aau.dk, pm@hst.aau.dk
    * - Technische Universität Chemnitz
+     - 5
+     - Email coordinator
      - Stephan Odenwald
      - stephan.odenwald@mb.tu-chemnitz.de
    * - FH Technikum Wien
+     - 5
+     - Email coordinator
      - Stefan Litzenberger
      - litzenberger@technikum-wien.at
    * - Vrije Universiteit Amsterdam
+     - 15
+     - Email coordinator
      - Hein Daanen
      - h.a.m.daanen@vu.nl
 
@@ -150,6 +165,18 @@ More Information
 
 Partners
 ========
+
+Special Topics in Sports Engineering is part of A4SEE_ a Erasmus+ Knowledge Alliance project funded by the EU.
+
+.. image:: https://objects-us-east-1.dream.io/mechmotum/logo-a4see-484x300.png
+   :align: center
+   :target: http://a4see.com
+   :alt: A4SEE Logo
+
+.. _A4SEE: http://a4see.com
+
+Participating Universities
+--------------------------
 
 .. list-table::
    :class: table
