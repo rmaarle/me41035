@@ -8,6 +8,7 @@ The schedule is being developed and will be updated as lectures and activities
 are confirmed. **Right now it is tentative**, as we confirm all of the
 lecturers participation. **Times and topics will be adjusted.**
 
+Listed times are CEST (UTC +2).
 
 .. table::
    :widths: auto
@@ -40,8 +41,9 @@ lecturers participation. **Times and topics will be adjusted.**
    |_|           15:00-15:30            Assignment 2 Introduciton                           Jason Moore, John Hart
    |_|           15:30-17:00  Activity  Work on Assignment 2
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   T-Jun-08      10:00-12:00  Lecture   Material Doping                                     Frans van der Helm
-   |_|           13:30-16:00  Activity  Work on Assignment 2
+   T-Jun-08      10:00-13:00  Activity  Work on Assignment 2
+   |_|           13:00-15:00  Lecture   Material Doping                                     Frans van der Helm
+   |_|           15:00-16:00  Activity  Work on Assignment 2
    |_|           16:00-17:00  Activity  Report on Assignment 2
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    W-Jun-09      10:00-12:00  Lecture   Bicycle design in industry and education            Stephan Odewald
