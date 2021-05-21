@@ -50,7 +50,8 @@ Listed times are CEST (UTC +2).
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    W-Jun-09      10:00-12:00  Lecture   Bicycle design in industry and education            Stephan Odewald
    |_|           13:00-13:30            Assignment 3 Introduction
-   |_|           13:30-17:00  Activity  Work on assignment
+   |_|           13:30-14:15            Bicycle Engineering at a Company
+   |_|           14:15-17:00  Activity  Work on assignment
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    R-Jun-10      10:00-12:00  Lecture   Biomechanics of cycling                             Marcus Dunn
    |_|           13:00-16:00  Activity  Work on assignment
