@@ -1,3 +1,4 @@
+
 :title: Schedule
 :sortorder: 1
 
@@ -27,14 +28,15 @@ Listed times are CEST (UTC +2).
    W-Jun-02      10:00-12:00  Lecture   Sports Aerodynamics                                 Andrea Sciacchitano
    |_|           14:00-16:00  Activity  Aerodynamics Workshop                               Andrea Sciacchitano
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   R-Jun-03      10:00-11:00  Activity  Assignment 1 Introduction                           Jason Moore, John Hart
-   |_|           11:00-16:00  Activity  Work on assignment 1
-   |_|           14:00-15:00  Activity  Office hours, Q & A                                 Jason Moore, Jan Groenhuis
-   |_|           16:00-17:00  Activity  Report on assignment 1
+   R-Jun-03      10:00-11:00  Lecture   Sports Engineering at a Company
+   |_|           11:30-12:00  Activity  Assignment 1 Introduction                           Jason Moore, John Hart
+   |_|           13:00-16:00  Activity  Work on assignment 1
+   |_|           16:00-17:00  Activity  Office hours, Q & A                                 Jason Moore, Jan Groenhuis
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    F-Jun-04      10:00-12:00  Lecture   Sports Smartphone Measurement                       Jason Moore
                                         and Data Analysis
-   |_|           15:00-16:00  Lecture   Sports Engineering at a Company                     TBA
+   |_|           13:00-15:00  Activity  Work on assignment 1
+   |_|           15:00-16:00  Activity  Report on assignment 1
    |_|           16:00-17:00  Activity  Social
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    M-Jun-07      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen
