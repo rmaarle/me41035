@@ -12,7 +12,7 @@
    :class: table table-striped table-bordered
 
    ============  ===========  ========  ==================================================  =========================
-   Date          Time         Type       Topic                                               Instructor
+   Date          Time (CEST)  Type       Topic                                               Instructor
    ============  ===========  ========  ==================================================  =========================
    M-May-31      10:00-12:00  Lecture   Introduction                                        John Hart
    |_|           13:00-14:00  Activity  Announce groups and group introduction              Jan Groenhuis, Jason Moore
