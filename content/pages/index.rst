@@ -156,6 +156,41 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | D.Boric@tudelft.nl
 
+Communication
+=============
+
+We will make use of the `Microsoft Teams`_ platform for all course
+communication. We will use a "Team" named "Sports Engineering 2021" for
+announcements, lectures, office hours, the social, and channels will also be
+available for your group to use for group work. Hopefully, all communication
+about the class will stay within the team to simplify working across multiple
+universities and countries. Steps to getting access to the Sports Engineering
+2021 team:
+
+- Download and install the Microsoft Teams software (free for use on all major
+  desktop platforms).
+- If you are TU Delft student or employee, open Teams and log in with your TU
+  Delft netid. Once logged in, you should see the "Sports Engineering 2021"
+  team under "Teams" in the MS Teams application. You are done.
+- If you are not with TU Delft, create a free `Microsoft account`_ then check
+  the email you registered with for the course for an invitation to the Sports
+  Engineering 2021 team. The subject should be something like "You have been
+  added as a guest to Delft University of Technology in Microsoft Teams".
+- Click the "Open Microsoft Teams" link in the email and sign into MS Teams
+  with your Microsoft account. You should see the "Sports Engineering 2021"
+  team under "Teams" in the MS Teams application. You are done.
+
+It is important to access the team the week before class and report any issues
+to D.Boric@tudelft.nl for access help. We have had some connection issues
+already.
+
+If you are not registered for the course but would like to join the live
+lectures, send an email to D.Boric@tudelft.nl with a request to be added. All
+lectures will also be posted to Youtube by the end of June.
+
+.. _Microsoft Teams: https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software/
+.. _Microsoft Account: https://account.microsoft.com
+
 More Information
 ================
 
