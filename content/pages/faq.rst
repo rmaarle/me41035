@@ -1,5 +1,5 @@
 :title: FAQ
-:sortorder: 2
+:sortorder: 3
 
 Are there fixed lessons each day from 9:00 to 17:00?
 
