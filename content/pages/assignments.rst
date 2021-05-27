@@ -2,7 +2,8 @@
 Assignments
 ===========
 
-:sortorder: 1
+:title: Assignments
+:sortorder: 2
 
 The assignments will be done in groups comprised of four or five students. The
 groups will be formed to mix students from the participating universities and
@@ -89,34 +90,40 @@ Intermediate Reporting
 ----------------------
 
 At each reporting activity in the schedule (one for each assignment) each group
-will be expected to submit a 2 page PDF written document and make a (strictly)
-3 minute presentation to the class. At least one scientific literature resource
-should be used and cited in each of these reports. Submit a PDF of the report
-and a PDF of the slide deck. The instructors will provide unstructured written
-and verbal feedback to your group before the next assignment is introduced.
+will be expected to submit a PDF written document with 2 pages of content max
+and make a (strictly) 3 minute presentation to the class. At least two
+scientific literature resources should be used and cited in each of these
+reports. The title, author list, and bibliography do not count against the page
+limit. Submit a PDF of the report and a PDF of the slide deck to the "Files"
+section of your group's MS Team channel by the end of the reporting activity
+period. The instructors will provide unstructured written and verbal feedback
+to your group before the next assignment is introduced.
 
 Final Report
 ------------
 
-Each group should submit a maximum 6 page PDF final report including methods,
-results, and discussion based on the three intermediate reports and your final
-work by Friday, June 18th. At least three scientific resource should be used
-and cited.
+Each group should submit a PDF final report with maximum of 6 pages of content
+including methods, results, and discussion based on the three intermediate
+reports and your final work by 23:59 Friday, June 18th. At least six scientific
+literature resources should be used and cited. The title, author list, and
+bibliography do not count against the page limit.
 
 Final Presentation
 ------------------
 
 Each group will present a maximum 15 minute presentation the afternoon of
 Friday June 11th. The presentation will be followed by 5 minutes of Q & A. You
-should present your model predictions to the class, including the procedures
-and results of assignments 1 & 2 on which your predictions are based. Submit a
-PDF of the slide deck along with your final report and peer review.
+should present your model predictions and its comparison to the measured race
+duration to the class, including the procedures and results of assignments 1 &
+2 on which your predictions are based. Submit a PDF of the slide deck along
+with your final report and peer review.
 
 Peer Review
 -----------
 
 Each student in the class will submit a structured review of contributions of
-yourself and your group members alongside the final report by June 18th.
+yourself and your group members alongside the final report by June 18th. A form
+will be provided for this.
 
 Grading
 -------
