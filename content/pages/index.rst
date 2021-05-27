@@ -199,6 +199,10 @@ To join the live lectures and activities:
 **Note that lectures will be recorded and most will be posted publicly to
 Youtube.**
 
+Lecturers may upload any files for the students to the General channel's
+"Files" "Class Materials" folder. All members of the MS Team will have access
+to the files.
+
 .. _Microsoft Teams: https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software/
 .. _Microsoft Account: https://account.microsoft.com
 
