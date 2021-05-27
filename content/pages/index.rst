@@ -188,6 +188,17 @@ If you are not registered for the course but would like to join the live
 lectures, send an email to D.Boric@tudelft.nl with a request to be added. All
 lectures will also be posted to Youtube by the end of June.
 
+To join the live lectures and activities:
+
+1. Open the Microsoft Teams application.
+2. Select "Teams" and then "Sports Engineering 2021".
+3. Select the "General" channel (if not already selected).
+4. Wait for the video meeting to start and select "Join" when the meeting is
+   active.
+
+**Note that lectures will be recorded and most will be posted publicly to
+Youtube.**
+
 .. _Microsoft Teams: https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software/
 .. _Microsoft Account: https://account.microsoft.com
 
