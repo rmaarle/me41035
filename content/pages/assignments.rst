@@ -67,7 +67,7 @@ time over a real cycling route between 400 and 1000 meters long for at least
 one member of your group and two scenarios of your choice. A windless, flat,
 straight route will offer an easier prediction whereas wind, grade, and
 directional variations will be more challenging. The complexity is your choice
-(well, unless mother nature makes the choice for you).
+(unless mother nature makes the choice for you).
 
 The aims are to:
 
@@ -85,6 +85,9 @@ vehicle/rider modification or course variation.
 
 Assessment
 ==========
+
+**All assessment documents should be submitted as a PDF to the "Files" area of
+your group's private channel in the "Sports Engineering 2021" MS Team.**
 
 Intermediate Reporting
 ----------------------
