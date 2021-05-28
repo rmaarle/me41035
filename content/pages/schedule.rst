@@ -7,22 +7,51 @@
 
 **Listed times are CEST (UTC +2).**
 
+Office Hours
+   Open Q & A with the primary instructors. Navigate to the "General" channel
+   and ask questions via text chat or video chat. Other channels or breakout
+   rooms can be used to spread out the instructors among the students.
+Final Presentations
+   During the final presentation period, each team will give a 15 minute talk
+   about their methods and findings according to a provided schedule. Navigate
+   to the "General" channel and select "Join" to enter the video chat room for
+   the presentations.
+Lecture
+   A lecture, presentation, or talk given by the listed instructor. Navigate to
+   the "General" channel and select "Join" to enter the video chat room for the
+   lecture.
+Reporting On Assignments
+   During the three reporting activities, each team will give a 3 minute
+   "lightning talk" about their methods and findings. At the end the PDF
+   reports should be turned in to your group's channel. Navigate to the
+   "General" channel and select "Join" to enter the video chat room for the
+   lecture.
+Social
+   Navigate to the "General" channel and select "Join" to enter the video chat
+   room for the social.
+Work On Assignments
+   Work on your assignments with your team as you see fit. You may use your
+   group's channel in the MS Team or any communication means you prefer.
+Workshop
+   Hands-on workshop tied to a lecture topic. Navigate to the "General" channel
+   and select "Join" to enter the video chat room for the workshop.
+
 .. table::
    :widths: auto
    :class: table table-striped table-bordered
 
    ============  ===========  ========  ==================================================  =========================
-   Date          Time (CEST)  Type       Topic                                               Instructor
+   Date          Time (CEST)  Type      Topic                                               Instructor
    ============  ===========  ========  ==================================================  =========================
    M-May-31      10:00-12:00  Lecture   Introduction                                        John Hart
    |_|           13:00-14:00  Activity  Announce groups and group introduction              Jan Groenhuis, Jason Moore, John Hart
    |_|           14:00-16:00  Lecture   Bicycle Dynamics                                    Arend Schwab
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    T-Jun-01      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling                    Mark de Zee
-   |_|           14:00-16:00  Activity  Using your Musculoskeletal Model                    Mark de Zee
+   |_|           14:00-16:00  Workshop  Using your Musculoskeletal Model                    Mark de Zee
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    W-Jun-02      10:00-12:00  Lecture   Sports Aerodynamics                                 Andrea Sciacchitano
-   |_|           14:00-16:00  Activity  Aerodynamics Workshop                               Andrea Sciacchitano
+   |_|           14:00-16:00  Workshop  Aerodynamics Workshop                               Andrea Sciacchitano
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    R-Jun-03      10:00-11:00  Lecture   Sports Engineering at Team DSM                      Harm Ubbens
    |_|           11:30-12:00  Activity  Assignment 1 Introduction                           Jason Moore, John Hart
