@@ -75,7 +75,7 @@ Workshop
    |_|           15:00-16:00  Free      Work on Assignment 2
    |_|           16:00-17:00  Activity  Report on Assignment 2                              Jason Moore, John Hart, Jan Groenhuis
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   W-Jun-09      10:00-12:00  Lecture   Bicycle design in industry and education            Stephan Odewald
+   W-Jun-09      10:00-12:00  Lecture   Bicycle design in industry and education            Stephan Odenwald
    |_|           13:00-13:30  Activity  Assignment 3 Introduction                           Jason Moore, John Hart
    |_|           13:30-14:15  Lecture   Bicycle Engineering at Bosch                        Oliver Maier
    |_|           14:15-17:00  Free      Work on assignment 3
