@@ -85,5 +85,5 @@ Workshop
    |_|           14:00-16:00  Free      Work on assignment 3
    |_|           16:00-17:00  Activity  Report on Assignment 3                              Jason Moore, John Hart, Jan Groenhuis
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   F-Jun-11      10:00-17:00  Activity  Final presentations                                 Jason Moore, John Hart, Jan Groenhuis
+   F-Jun-11      13:00-16:00  Activity  Final presentations                                 Jason Moore, John Hart, Jan Groenhuis
    ============  ===========  ========  ==================================================  =========================
