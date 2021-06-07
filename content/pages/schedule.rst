@@ -72,10 +72,10 @@ Workshop
    T-Jun-08      10:00-11:00  Free      Work on Assignment 2
    |_|           11:00-12:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart, Jan Groenhuis
    |_|           13:00-15:00  Lecture   Material Doping                                     Frans van der Helm
-   |_|           15:00-16:00  Free      Work on Assignment 2
-   |_|           16:00-17:00  Activity  Report on Assignment 2                              Jason Moore, John Hart, Jan Groenhuis
+   |_|           15:00-17:00  Free      Work on Assignment 2
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   W-Jun-09      10:00-12:00  Lecture   Bicycle design in industry and education            Stephan Odenwald
+   W-Jun-09      09:00-10:00  Activity  Report on Assignment 2                              Jason Moore, John Hart, Jan Groenhuis
+   |_|           10:00-12:00  Lecture   Bicycle design in industry and education            Stephan Odenwald
    |_|           13:00-13:30  Activity  Assignment 3 Introduction                           Jason Moore, John Hart
    |_|           13:30-14:15  Lecture   Bicycle Engineering at Bosch                        Oliver Maier
    |_|           14:15-17:00  Free      Work on assignment 3

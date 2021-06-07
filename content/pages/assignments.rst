@@ -44,10 +44,11 @@ rolling resistance, modified air resistance, modified rolling resistance.
 Assignment 2: Estimate Athlete Power Capacity
 =============================================
 
-The objective of this assignment is to estimate both aerobic and anaerobic
-capacity for at least two members of your group. Each capacity type estimate
-should be based off of data your group collects, but should be supplemented or
-supported by values found in relevant scientific literature.
+The objective of this assignment is to estimate aerobic capacity for at least
+two members of your group and anaerobic capacity for at least one member of
+your group. Each capacity type estimate should be based off of data your group
+collects, but should be supplemented or supported by values found in relevant
+scientific literature.
 
 The aims are to:
 
@@ -55,7 +56,8 @@ The aims are to:
   disposal to collect the necessary data needed for your estimates.
 - Calculate reasonable estimates for the aerobic and anaerobic capacity of the
   chosen athletes.
-- Compare the aerobic and anaerobic capacities of two members of your group.
+- Compare the aerobic capacities of two members of your group and report on the
+  anaerobic capacity of one member.
 - Report on your experiment and result in the light of available information
   from sports engineering scientific literature.
 
