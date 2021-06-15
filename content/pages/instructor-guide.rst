@@ -2,9 +2,16 @@
 Instructor Guide
 ================
 
+:title: Instructor Guide
+:status: hidden
 
 Github
 ======
+
+https://github.com/moorepants/me41035
+
+- Public course website is managed here.
+- Issue tracker is used for tasks and such.
 
 Brightspace
 ===========
@@ -77,10 +84,10 @@ Jason's lecture activity
 May need some help with it, depending on how interactive I make it. more to
 come
 
-
 Pub Quiz
 --------
 
 On the first friday @ 16 CEST we will have an online social. Prep, organize,
 and run a bicycle themed pub quiz. We can keep the same teams as for the
 assignments but also incorparte any other's that join.
+
