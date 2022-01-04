@@ -49,11 +49,12 @@ DEFAULT_PAGINATION = False
 
 try:
     with open('config.yml', 'r') as config_file:
-        config_data = yaml.load(config_file)
+        config_data = yaml.load(config_file, Loader=yaml.FullLoader)
 except IOError:
     THEME = ''
     PLUGIN_PATHS = ''
 else:
+    print('Loaded theme and plugins from local config file.')
     THEME = config_data['THEME_PATH']
     PLUGIN_PATHS = config_data['PLUGIN_PATHS']
 
