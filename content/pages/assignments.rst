@@ -4,6 +4,7 @@ Assignments
 
 :title: Assignments
 :sortorder: 2
+:status: hidden
 
 The assignments will be done in groups comprised of four or five students. The
 groups will be formed to mix students from the participating universities and

@@ -59,29 +59,31 @@ material–athlete interaction. More specifically, students should be:
 
 - Familiar with the Power Equation concept and be able to apply this to
   cycling;
-- have knowledge of methodological aspects of sports research, in particular
+- Have knowledge of methodological aspects of sports research, in particular
   error propagation, man–machine interaction (closed loop complexity),
   measurement techniques, internal and external validity.
-- have insight in the organizational and psychological complexities of sports
+- Have insight in the organizational and psychological complexities of sports
   innovation.
 - Able to measure key parameters needed for power equations, related to their
   own field and have experience in the measurement of key parameters in
   adjacent fields;
-- able to provide a cycling performance simulation program with the parameters
+- Able to provide a cycling performance simulation program with the parameters
   necessary to evaluate performance on a realistic level;
-- able to collect and present to fellow group members, data on parameters for
+- Able to collect and present to fellow group members, data on parameters for
   such a simulation program.
-- present research findings through an individual portfolio, and a group
+- Present research findings through an individual portfolio, and a group
   presentation/poster/brief oral.
 
 Dates
 =====
 
-The course will occur over the two weeks of **May 31, 2021 to June 11, 2021**
-with activities scheduled throughout the day from Monday to Friday each week.
+.. topic:: 2022 Dates
+   :class: alert alert-warning
 
-**Due to the ongoing coronavirus situation, the course will be held
-virtually.**
+   The course will occur over the two weeks of **June 27, 2022 to July 8,
+   2022** with activities scheduled throughout the day from Monday to Friday
+   each week.  The intention is to have the course in-person in Delft, but due
+   to the ongoing coronavirus situation, the course may be held virtually.
 
 Credits
 =======
@@ -98,7 +100,7 @@ a guaranteed number of slots for students from each of the participating
 universities. Excess students will be placed on a waiting list. Slots will be
 filled on a first come, first serve basis.
 
-**Registration deadline is April 16, 2021.**
+**Registration deadline will be announced.**
 
 Reach out to your university's coordinator to find out how to register:
 
@@ -113,35 +115,30 @@ Reach out to your university's coordinator to find out how to register:
      - Coordinator
      - Email
    * - Delft University of Technology
-     - 15
+     -
      - Via Brightspace
      - Dijana Boric
      - D.Boric@tudelft.nl
    * - Sheffield Hallam University
-     - 5
+     -
      - Email coordinator
      - John Hart
      - John.Hart@shu.ac.uk
    * - Aalborg Universitet
-     - 5
+     -
      - Email coordinator
      - Mark de Zee, Pascal Max Madeleine
      - mdz@hst.aau.dk, pm@hst.aau.dk
    * - Technische Universität Chemnitz
-     - 5
+     -
      - Email coordinator
      - Stephan Odenwald
      - stephan.odenwald@mb.tu-chemnitz.de
    * - FH Technikum Wien
-     - 5
+     -
      - Email coordinator
      - Stefan Litzenberger
      - litzenberger@technikum-wien.at
-   * - Vrije Universiteit Amsterdam
-     - 15
-     - Email coordinator
-     - Hein Daanen
-     - h.a.m.daanen@vu.nl
 
 Course Organizers
 =================
