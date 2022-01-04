@@ -39,9 +39,9 @@ Workshop
    :class: alert alert-warning
 
    The following schedule is simply a draft template and nothing is yet fixed.
-   For early planning purposes reserve 8:00-22:00 for each day of the course in
-   your personal agenda. If the course is in person there will also be travel
-   to sites around the Netherlands on some days, taking much of the day.
+   For early planning purposes **reserve 8:00-22:00 for each day of the course
+   in your personal agenda**. If the course is in person there will also be
+   travel to sites around the Netherlands on some days, taking much of the day.
 
 .. table::
    :widths: auto
