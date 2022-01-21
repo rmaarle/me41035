@@ -6,7 +6,9 @@ Will this course be online?
    Delft after two years of it being online. The course is meant to be
    experienced in person with extensive practicals and site visits. If travel
    to and education activities in the Netherlands is permitted, the course will
-   be in person. The course will be online if not.
+   be in person. The course will be online if not. We will announce on **May 1,
+   2022** if the course has to be reverted to online. **Do not purchase travel
+   and accomodation before this announcement.**
 Are there fixed lessons each day from 9:00 to 17:00?
    No, there will be about 2 hours of in-class lectures and a some days will
    have up to an extra 2 hours of activities. We'll try to plan each lecture
@@ -33,3 +35,6 @@ Can I register myself?
    Each University will have a different way to register. See the information
    provided on the `main page <{filename}/pages/index.rst#registration>`_ or
    contact the coordinator at your University.
+Do you arrange our travel and accomodation?
+   No, we do not. But we do provide some tips for you on the `travel &
+   accomodation <{filename}/pages/travel.rst>`_ page.
