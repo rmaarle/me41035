@@ -100,7 +100,17 @@ a guaranteed number of slots for students from each of the participating
 universities. Excess students will be placed on a waiting list. Slots will be
 filled on a first come, first serve basis.
 
-**Registration deadline will be announced.**
+**The registration deadline is March 1, 2022.**
+
+Registration timeline:
+
+- February 1, 2022: Registration is open.
+- March 1, 2022: Registration deadline.
+- Mid March: Students are informed of their team placement and asked to
+  confirm.
+- May 1, 2022: We will announce if the course has to revert to online-only.
+  **Do not purchase travel/accomodation before May 1.** Final confirmation of
+  participation.
 
 Reach out to your university's coordinator to find out how to register:
 
@@ -115,27 +125,27 @@ Reach out to your university's coordinator to find out how to register:
      - Coordinator
      - Email
    * - Delft University of Technology
-     -
-     - Via Brightspace
+     - 20
+     - Email coordinator
      - Dijana Boric
      - D.Boric@tudelft.nl
    * - Sheffield Hallam University
-     -
+     - 5
      - Email coordinator
      - John Hart
      - John.Hart@shu.ac.uk
    * - Aalborg Universitet
-     -
+     - 5
      - Email coordinator
      - Mark de Zee, Pascal Max Madeleine
      - mdz@hst.aau.dk, pm@hst.aau.dk
    * - Technische Universität Chemnitz
-     -
+     - 5
      - Email coordinator
      - Stephan Odenwald
      - stephan.odenwald@mb.tu-chemnitz.de
    * - FH Technikum Wien
-     -
+     - 5
      - Email coordinator
      - Stefan Litzenberger
      - litzenberger@technikum-wien.at
@@ -156,13 +166,13 @@ Course Organizers
 Communication
 =============
 
-We will make use of the `Microsoft Teams`_ platform for all course
-communication. We will use a "Team" named "Sports Engineering 2021" for
-announcements, lectures, office hours, the social, and channels will also be
-available for your group to use for group work. Hopefully, all communication
-about the class will stay within the team to simplify working across multiple
-universities and countries. Steps to getting access to the Sports Engineering
-2021 team:
+In the event of an online offering, we will make use of the `Microsoft Teams`_
+platform for all course communication. We will use a "Team" named "Sports
+Engineering 2021" for announcements, lectures, office hours, the social, and
+channels will also be available for your group to use for group work.
+Hopefully, all communication about the class will stay within the team to
+simplify working across multiple universities and countries. Steps to getting
+access to the Sports Engineering 2022 team:
 
 - Download and install the Microsoft Teams software (free for use on all major
   desktop platforms).
@@ -171,7 +181,7 @@ universities and countries. Steps to getting access to the Sports Engineering
   team under "Teams" in the MS Teams application. You are done.
 - If you are not with TU Delft, create a free `Microsoft account`_ then check
   the email you registered with for the course for an invitation to the Sports
-  Engineering 2021 team. The subject should be something like "You have been
+  Engineering 2022 team. The subject should be something like "You have been
   added as a guest to Delft University of Technology in Microsoft Teams".
 - Click the "Open Microsoft Teams" link in the email and sign into MS Teams
   with your Microsoft account. You should see the "Sports Engineering 2021"
@@ -192,9 +202,6 @@ To join the live lectures and activities:
 3. Select the "General" channel (if not already selected).
 4. Wait for the video meeting to start and select "Join" when the meeting is
    active.
-
-**Note that lectures will be recorded and most will be posted publicly to
-Youtube.**
 
 Lecturers may upload any files for the students to the General channel's
 "Files" "Class Materials" folder. All members of the MS Team will have access
