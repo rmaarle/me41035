@@ -77,9 +77,9 @@ Workshop
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen
    |_|           12:00-17:00  Free      Work on Assignment 2
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   T-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling
+   T-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling                    Mark de Zee
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart
-   |_|           14:00-16:00  Workshop  Using your Musculoskeletal Model
+   |_|           14:00-16:00  Workshop  Using your Musculoskeletal Model                    Mark de Zee
    |_|           16:00-17:00  Activity  Report on Assignment 2
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    W-Jul-06      10:00-12:00  Lecture   Doping in Sports                                    Frans van der Helm
@@ -91,7 +91,7 @@ Workshop
    |_|           13:00-16:00  Free      Work on assignment 3
    |_|           16:00-17:00  Activity  Report on Assignment 3                              Jason Moore, John Hart
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   F-Jul-08      8:00-10:00   Travel    Travel to Alkmaar
+   F-Jul-08      8:00-10:00   Travel    Travel to Alkmaar Velodrome
    |_|           10:00-12:00  Activity  Final time trials
    |_|           13:00-14:00  Activity  Prep results
    |_|           14:00-17:00  Activity  Final presentations                                 Jason Moore, John Hart
