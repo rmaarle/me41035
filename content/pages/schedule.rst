@@ -55,21 +55,21 @@ Workshop
    |_|           14:00-16:00  Lecture   Bicycle Tires & Rolling Resistance                  Andrew Dressel
    |_|           16:00-17:00  Activity  Sports Engineering Borrel (Social)
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   T-Jun-28      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciacchitano
+   T-Jun-28      10:00-12:00  Lecture   Cycling Aerodynamics                                Wouter Terra
    |_|           13:00-14:00  Activity  Assignment 1 Introduction                           Jason Moore, John Hart
-   |_|           14:00-16:00  Workshop  Aerodynamics Workshop                               Andrea Sciacchitano
+   |_|           14:00-16:00  Workshop  Aerodynamics Workshop                               Wouter Terra
    |_|           16:00-17:00  Free      Work on assignment 1
    ------------  -----------  --------  --------------------------------------------------  -------------------------
    W-Jun-29      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason Moore
    |_|           13:00-14:00  Lecture   Sports Engineering at Team DSM                      Harm Ubbens
    |_|           14:00-17:00  Free      Work on assignment 1
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   R-Jun-30      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk
+   R-Jun-30      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster
    |_|           13:00-16:00  Free      Work on assignment 1
    |_|           16:00-16:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart
    |_|           16:00-17:00  Activity  Report on assignment 1                              Jason Moore, John Hart
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   F-Jul-01      10:00-12:00  Lecture   Physiological Power Generation                      Mathijs Hofmijster
+   F-Jul-01      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk
    |_|           13:00-14:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart
    |_|           14:00-15:00  Lecture   Wheelchair Power Generation                         Marit van Dijk
    ------------  -----------  --------  --------------------------------------------------  -------------------------
@@ -91,7 +91,7 @@ Workshop
    |_|           13:00-16:00  Free      Work on assignment 3
    |_|           16:00-17:00  Activity  Report on Assignment 3                              Jason Moore, John Hart
    ------------  -----------  --------  --------------------------------------------------  -------------------------
-   F-Jul-08      8:00-10:00   Travel    Travel to Alkmaar Velodrome
+   F-Jul-08      8:00-10:00   Travel    Travel to Race Track
    |_|           10:00-12:00  Activity  Final time trials
    |_|           13:00-14:00  Activity  Prep results
    |_|           14:00-17:00  Activity  Final presentations                                 Jason Moore, John Hart
