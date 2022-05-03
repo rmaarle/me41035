@@ -2,6 +2,7 @@
 :sortorder: 3
 
 Will this course be online?
+   **Update: The 2022 course will be in person in Delft!**
    We hope not! We have all the intentions to have the course in person in
    Delft after two years of it being online. The course is meant to be
    experienced in person with extensive practicals and site visits. If travel

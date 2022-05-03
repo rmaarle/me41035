@@ -10,11 +10,10 @@ students in Mechanical Engineering, Movement Sciences, Sport Sciences, and
 other related MSc programs. The course is organized as a two-week intensive
 course and comprises lectures, demonstrations, practicals, hands-on research,
 and a final field test. The course will be taught by staff from the six
-participating universities. Due to the ongoing coronavirus situation, this
-year's course will again be online.
+participating universities.
 
 The course is organised around a basic theme relevant for sports engineering
-and this year's theme will be "Maximizing cycling performance". During the
+and this year's theme will be "maximizing cycling performance". During the
 course students will work out what aspects determine cycling performance, and
 collect data (through experiments or literature research) that are needed to
 develop and feed a simulation program for the estimation of the optimal
@@ -82,8 +81,7 @@ Dates
 
    The course will occur over the two weeks of **June 27, 2022 to July 8,
    2022** with activities scheduled throughout the day from Monday to Friday
-   each week.  The intention is to have the course in-person in Delft, but due
-   to the ongoing coronavirus situation, the course may be held virtually.
+   each week. The course will be in person in Delft!
 
 Credits
 =======
