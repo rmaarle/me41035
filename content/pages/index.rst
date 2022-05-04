@@ -10,11 +10,10 @@ students in Mechanical Engineering, Movement Sciences, Sport Sciences, and
 other related MSc programs. The course is organized as a two-week intensive
 course and comprises lectures, demonstrations, practicals, hands-on research,
 and a final field test. The course will be taught by staff from the six
-participating universities. Due to the ongoing coronavirus situation, this
-year's course will again be online.
+participating universities.
 
 The course is organised around a basic theme relevant for sports engineering
-and this year's theme will be "Maximizing cycling performance". During the
+and this year's theme will be "maximizing cycling performance". During the
 course students will work out what aspects determine cycling performance, and
 collect data (through experiments or literature research) that are needed to
 develop and feed a simulation program for the estimation of the optimal
@@ -59,29 +58,30 @@ material–athlete interaction. More specifically, students should be:
 
 - Familiar with the Power Equation concept and be able to apply this to
   cycling;
-- have knowledge of methodological aspects of sports research, in particular
+- Have knowledge of methodological aspects of sports research, in particular
   error propagation, man–machine interaction (closed loop complexity),
   measurement techniques, internal and external validity.
-- have insight in the organizational and psychological complexities of sports
+- Have insight in the organizational and psychological complexities of sports
   innovation.
 - Able to measure key parameters needed for power equations, related to their
   own field and have experience in the measurement of key parameters in
   adjacent fields;
-- able to provide a cycling performance simulation program with the parameters
+- Able to provide a cycling performance simulation program with the parameters
   necessary to evaluate performance on a realistic level;
-- able to collect and present to fellow group members, data on parameters for
+- Able to collect and present to fellow group members, data on parameters for
   such a simulation program.
-- present research findings through an individual portfolio, and a group
+- Present research findings through an individual portfolio, and a group
   presentation/poster/brief oral.
 
 Dates
 =====
 
-The course will occur over the two weeks of **May 31, 2021 to June 11, 2021**
-with activities scheduled throughout the day from Monday to Friday each week.
+.. topic:: 2022 Dates
+   :class: alert alert-warning
 
-**Due to the ongoing coronavirus situation, the course will be held
-virtually.**
+   The course will occur over the two weeks of **June 27, 2022 to July 8,
+   2022** with activities scheduled throughout the day from Monday to Friday
+   each week. The course will be in person in Delft!
 
 Credits
 =======
@@ -98,7 +98,17 @@ a guaranteed number of slots for students from each of the participating
 universities. Excess students will be placed on a waiting list. Slots will be
 filled on a first come, first serve basis.
 
-**Registration deadline is April 16, 2021.**
+**The registration deadline is March 1, 2022.**
+
+Registration timeline:
+
+- February 1, 2022: Registration is open.
+- March 1, 2022: Registration deadline.
+- Mid March: Students are informed of their team placement and asked to
+  confirm.
+- May 1, 2022: We will announce if the course has to revert to online-only.
+  **Do not purchase travel/accomodation before May 1.** Final confirmation of
+  participation.
 
 Reach out to your university's coordinator to find out how to register:
 
@@ -113,8 +123,8 @@ Reach out to your university's coordinator to find out how to register:
      - Coordinator
      - Email
    * - Delft University of Technology
-     - 15
-     - Via Brightspace
+     - 20
+     - Email coordinator
      - Dijana Boric
      - D.Boric@tudelft.nl
    * - Sheffield Hallam University
@@ -137,11 +147,6 @@ Reach out to your university's coordinator to find out how to register:
      - Email coordinator
      - Stefan Litzenberger
      - litzenberger@technikum-wien.at
-   * - Vrije Universiteit Amsterdam
-     - 15
-     - Email coordinator
-     - Hein Daanen
-     - h.a.m.daanen@vu.nl
 
 Course Organizers
 =================
@@ -159,13 +164,13 @@ Course Organizers
 Communication
 =============
 
-We will make use of the `Microsoft Teams`_ platform for all course
-communication. We will use a "Team" named "Sports Engineering 2021" for
-announcements, lectures, office hours, the social, and channels will also be
-available for your group to use for group work. Hopefully, all communication
-about the class will stay within the team to simplify working across multiple
-universities and countries. Steps to getting access to the Sports Engineering
-2021 team:
+In the event of an online offering, we will make use of the `Microsoft Teams`_
+platform for all course communication. We will use a "Team" named "Sports
+Engineering 2021" for announcements, lectures, office hours, the social, and
+channels will also be available for your group to use for group work.
+Hopefully, all communication about the class will stay within the team to
+simplify working across multiple universities and countries. Steps to getting
+access to the Sports Engineering 2022 team:
 
 - Download and install the Microsoft Teams software (free for use on all major
   desktop platforms).
@@ -174,7 +179,7 @@ universities and countries. Steps to getting access to the Sports Engineering
   team under "Teams" in the MS Teams application. You are done.
 - If you are not with TU Delft, create a free `Microsoft account`_ then check
   the email you registered with for the course for an invitation to the Sports
-  Engineering 2021 team. The subject should be something like "You have been
+  Engineering 2022 team. The subject should be something like "You have been
   added as a guest to Delft University of Technology in Microsoft Teams".
 - Click the "Open Microsoft Teams" link in the email and sign into MS Teams
   with your Microsoft account. You should see the "Sports Engineering 2021"
@@ -195,9 +200,6 @@ To join the live lectures and activities:
 3. Select the "General" channel (if not already selected).
 4. Wait for the video meeting to start and select "Join" when the meeting is
    active.
-
-**Note that lectures will be recorded and most will be posted publicly to
-Youtube.**
 
 Lecturers may upload any files for the students to the General channel's
 "Files" "Class Materials" folder. All members of the MS Team will have access

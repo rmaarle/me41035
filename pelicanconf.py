@@ -49,11 +49,12 @@ DEFAULT_PAGINATION = False
 
 try:
     with open('config.yml', 'r') as config_file:
-        config_data = yaml.load(config_file)
+        config_data = yaml.load(config_file, Loader=yaml.FullLoader)
 except IOError:
     THEME = ''
     PLUGIN_PATHS = ''
 else:
+    print('Loaded theme and plugins from local config file.')
     THEME = config_data['THEME_PATH']
     PLUGIN_PATHS = config_data['PLUGIN_PATHS']
 
@@ -61,7 +62,7 @@ else:
 
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
-SITESUBTITLE = 'ME41035 2020/2021 Q4'
+SITESUBTITLE = 'ME41035 2022 Q4'
 SITEIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/cyclist-sketch-john-hart.png'
 # INSTITUTEIMAGE should be 100px in height
 #INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
