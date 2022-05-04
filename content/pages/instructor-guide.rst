@@ -23,16 +23,20 @@ Course email list
 
 Way to announce to all involved.
 
+TU Delft Coordinator Responsibilities
+=====================================
+
+- forming teams
+
 TA Responsibiilties
 ===================
 
-- forming teams
-- handling the recording and posting of the lecture videos (zoom lectures)
 - assisting John and me with the assessment of the assignments
 - helping answer questions during office hour sessions
-- running a zoom bike pub quiz for the social
+- presence during the experiment sessions
 - reporting on the assignments
 - making presentation schedule
+- setup meetup for hybrid lectures:wq
 
 Forming teams
 -------------
@@ -77,12 +81,6 @@ Final Presentations
 5-6 hours of presentations
 
 TA makes the presentation schedule
-
-Jason's lecture activity
-------------------------
-
-May need some help with it, depending on how interactive I make it. more to
-come
 
 Pub Quiz
 --------
