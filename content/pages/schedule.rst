@@ -52,18 +52,18 @@ Workshop
    |_|           14:00-17:00  Free      Work on assignment 1                                                           Sports Hall
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jun-30      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         Hall G
-   |_|           13:00-16:00  Free      Work on assignment 1                                                           Sports Hall
-   |_|           16:00-16:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Sports Hall
+   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Sports Hall
+   |_|           14:00-16:00  Free      Work on assignment 1                                                           Sports Hall
    |_|           16:00-17:00  Activity  Report on assignment 1                              Jason Moore, John Hart     Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-01      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk         Hall G
    |_|           13:00-14:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart     Hall G
-                 15:00-17:00  Free      Work on assignment 1                                                           Hall G
+                 15:00-17:00  Free      Work on assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                Hall G
    |_|           13:00-14:00  Lecture   Wheelchair Power Generation                         Marit van Dijk             Hall G
-   |_|           14:00-17:00  Free      Work on Assignment 2                                                           Hall G
+   |_|           14:00-17:00  Free      Work on assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    T-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling                    Mark de Zee                Hall G
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Hall G
