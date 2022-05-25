@@ -7,33 +7,20 @@
 **Listed times are CEST (UTC +2).**
 
 Office Hours
-   Open Q & A with the primary instructors. Navigate to the "General" channel
-   and ask questions via text chat or video chat. Other channels or breakout
-   rooms can be used to spread out the instructors among the students.
+   Open Q & A with the instructors.
 Final Presentations
    During the final presentation period, each team will give a 15 minute talk
-   about their methods and findings according to a provided schedule. Navigate
-   to the "General" channel and select "Join" to enter the video chat room for
-   the presentations.
+   about their methods and findings according to a provided schedule.
 Lecture
-   A lecture, presentation, or talk given by the listed instructor. Navigate to
-   the "General" channel and select "Join" to enter the video chat room for the
-   lecture.
+   A lecture, presentation, or talk given by the listed instructor.
 Reporting On Assignments
    During the three reporting activities, each team will give a 3 minute
    "lightning talk" about their methods and findings. At the end the PDF
-   reports should be turned in to your group's channel. Navigate to the
-   "General" channel and select "Join" to enter the video chat room for the
-   lecture.
-Social
-   Navigate to the "General" channel and select "Join" to enter the video chat
-   room for the social.
+   reports should be turned in to your group's channel.
 Work On Assignments
-   Work on your assignments with your team as you see fit. You may use your
-   group's channel in the MS Team or any communication means you prefer.
+   Work on your assignments with your team as you see fit.
 Workshop
-   Hands-on workshop tied to a lecture topic. Navigate to the "General" channel
-   and select "Join" to enter the video chat room for the workshop.
+   Hands-on workshop tied to a lecture topic.
 
 .. topic:: **Draft Schedule**
    :class: alert alert-warning
@@ -51,7 +38,7 @@ Workshop
    Date          Time (CEST)  Type      Topic                                               Instructor                 Location
    ============  ===========  ========  ==================================================  =========================  ===================
    M-Jun-27      10:00-12:00  Lecture   Introduction                                        John Hart                  Hall G
-   |_|           13:00-14:00  Activity  Announce groups and group introduction              Jason Moore, John Hart     Hall G
+   |_|           13:00-14:00  Activity  Meet your group                                     Jason Moore, John Hart     Hall G
    |_|           14:00-16:00  Lecture   Bicycle Tires & Rolling Resistance                  Andrew Dressel             Hall G
    |_|           16:00-17:00  Activity  Sports Engineering Borrel (Social)                                             't Lagerhuysch
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
@@ -71,12 +58,12 @@ Workshop
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-01      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk         Hall G
    |_|           13:00-14:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart     Hall G
-   |_|           14:00-15:00  Lecture   Wheelchair Power Generation                         Marit van Dijk             Hall G
-                 15:00-17:00  Free      Work on assignment 1                                                           Bicycle Lab
+                 15:00-17:00  Free      Work on assignment 1                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                Hall G
-   |_|           12:00-17:00  Free      Work on Assignment 2                                                           Bicycle Lab
+   |_|           13:00-14:00  Lecture   Wheelchair Power Generation                         Marit van Dijk             Hall G
+   |_|           14:00-17:00  Free      Work on Assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    T-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling                    Mark de Zee                Hall G
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Hall G
@@ -92,8 +79,9 @@ Workshop
    |_|           13:00-16:00  Free      Work on assignment 3                                                           Hall G
    |_|           16:00-17:00  Activity  Report on Assignment 3                              Jason Moore, John Hart     Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   F-Jul-08      8:00-10:00   Travel    Travel to Race Track
-   |_|           10:00-12:00  Activity  Final time trials                                                              Velodrome
-   |_|           13:00-14:00  Activity  Prep results                                                                   Velodrome
-   |_|           14:00-17:00  Activity  Final presentations                                 Jason Moore, John Hart     Velodrome
+   F-Jul-08      8:00-10:30   Travel    Travel to Race Track (Depart @ 8:15)
+   |_|           10:30-12:30  Activity  Final time trials                                                              Apeldoorn Velodrome
+   |_|           13:00-14:00  Activity  Prep results                                                                   Apeldoorn Velodrome
+   |_|           14:00-17:00  Activity  Final presentations                                 Jason Moore, John Hart     Apeldoorn Velodrome
+   |_|           17:00-19:00  Travel    Return to TU Delft
    ============  ===========  ========  ==================================================  =========================  ===================
