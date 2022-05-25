@@ -110,26 +110,26 @@ Final Report
 
 Each group should submit a PDF final report with maximum of 6 pages of content
 including methods, results, and discussion based on the three intermediate
-reports and your final work by 23:59 Friday, June 18th. At least six scientific
-literature resources should be used and cited. The title, author list, and
-bibliography do not count against the page limit.
+reports and your final work by 23:59 Friday following the last day. At least
+six scientific literature resources should be used and cited. The title, author
+list, and bibliography do not count against the page limit.
 
 Final Presentation
 ------------------
 
-Each group will present a maximum 15 minute presentation the afternoon of
-Friday June 11th. The presentation will be followed by 5 minutes of Q & A. You
-should present your model predictions and its comparison to the measured race
-duration to the class, including the procedures and results of assignments 1 &
-2 on which your predictions are based. Submit a PDF of the slide deck along
-with your final report and peer review.
+Each group will present a maximum 15 minute presentation the afternoon of the
+last day. The presentation will be followed by 5 minutes of Q & A. You should
+present your model predictions and its comparison to the measured race duration
+to the class, including the procedures and results of assignments 1 & 2 on
+which your predictions are based. Submit a PDF of the slide deck along with
+your final report and peer review.
 
 Peer Review
 -----------
 
 Each student in the class will submit a structured review of contributions of
-yourself and your group members alongside the final report by June 18th. A form
-will be provided for this.
+yourself and your group members alongside the final report one week after the
+last day of the course. A form will be provided for this.
 
 Grading
 -------

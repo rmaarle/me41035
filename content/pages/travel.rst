@@ -6,8 +6,8 @@ Travel & Accomodation
 :sortorder: 2
 :slug: travel
 
-Accomodation options
-====================
+Accommodation options
+=====================
 
 - Studenthotel: https://www.thestudenthotel.com/delft/
 - Camping: https://www.delftsehout.nl/
@@ -18,7 +18,7 @@ Accomodation options
    - https://www.vrbo.com/nl-nl/search/keywords:delft-zuid-holland-nederland/arrival:2022-06-26/departure:2022-07-08/minNightlyPrice/0?filterByTotalPrice=true&petIncluded=false&ssr=true&adultsCount=5&childrenCount=0&pinnedPropertyLabel=pinnedPropertyDatesAvailable
 
 - Hostel: Delft https://reservations.cubilis.eu/hostel-delft-delft
-- The Haque https://www.thegoldenstork.com/
+- The Hague https://www.thegoldenstork.com/
 
 Travel information
 ==================
@@ -26,9 +26,12 @@ Travel information
 Airplane
 --------
 
+**Beware that Schiphol has had staff shortages and wait times may be very
+long.**
+
 `Schiphol International Airport <https://www.schiphol.nl/en/>`_ is one of the
 central airports. All the well-known airlines are flying from and to Schiphol
-on a daily base.  Transportation from Schiphol Airport to Delft is possible by
+on a daily base. Transportation from Schiphol Airport to Delft is possible by
 public transport or the special taxi service called Schiphol Travel Taxi. There
 is a direct train connection between Schiphol International Airport and Delft
 railway station (`plan your train journey <https://www.ns.nl/en>`_). Travelling
@@ -37,7 +40,9 @@ time is about 40 minutes; the frequency is 5 times per hour.
 Apart from Schiphol International Airport there is the smaller and more Western
 European orientated `Rotterdam The Hague Airport
 <https://www.rotterdamthehagueairport.nl/en/>`_. The airport is approximately a
-15-minute drive from the centre of Delft.
+15-minute drive from the centre of Delft. Flying into Brussels or Antwerp is
+also an option. Trains travel from Belgium to Rotterdam regularly (including
+high speed Thalys).
 
 Ferries
 -------
@@ -59,8 +64,9 @@ By train
    platforms to be sure that Delft is listed. The journey takes about 45
    minutes. One-way tickets can be bought at a ticket machine on the platform
    or in the main entrance hall for €16.30 (first class) or €9.60 (second
-   class).  Train tickets do not require a reservation and can be paid for by
+   class). Train tickets do not require a reservation and can be paid for by
    debit card or credit card. Schedules can be found on the website of NS.
+   Eurostar connect England to the Netherlands.
 
 Transportation within Delft
 ---------------------------

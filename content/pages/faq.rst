@@ -20,8 +20,8 @@ Are there fixed lessons each day from 9:00 to 17:00?
    Netherlands on some days, taking much of the day. The `schedule
    <{filename}/pages/schedul.rst>`_ will be updated as we finalize the lessons.
 How many hours of work is required over the two weeks?
-   The course is worth 3 ECs, so expect a full time work load for the two
-   weeks.
+   The course is worth 3 ECs (~84 hrs), so expect a full time work load for the
+   two weeks.
 Do we work in teams?
    Yes, you will be in a multidisciplinary international team and will work
    with that team for each assignment.
@@ -36,6 +36,6 @@ Can I register myself?
    Each University will have a different way to register. See the information
    provided on the `main page <{filename}/pages/index.rst#registration>`_ or
    contact the coordinator at your University.
-Do you arrange our travel and accomodation?
+Do you arrange our travel and accommodation?
    No, we do not. But we do provide some tips for you on the `travel &
    accomodation <{filename}/pages/travel.rst>`_ page.

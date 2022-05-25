@@ -12,7 +12,7 @@ course and comprises lectures, demonstrations, practicals, hands-on research,
 and a final field test. The course will be taught by staff from the six
 participating universities.
 
-The course is organised around a basic theme relevant for sports engineering
+The course is organized around a basic theme relevant for sports engineering
 and this year's theme will be "maximizing cycling performance". During the
 course students will work out what aspects determine cycling performance, and
 collect data (through experiments or literature research) that are needed to
