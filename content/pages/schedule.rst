@@ -58,7 +58,7 @@ Workshop
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-01      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk         Hall G
    |_|           13:00-14:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart     Hall G
-                 15:00-17:00  Free      Work on assignment 2                                                           Hall G
+   |_|           15:00-17:00  Free      Work on assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                Hall G
