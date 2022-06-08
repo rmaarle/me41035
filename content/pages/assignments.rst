@@ -4,13 +4,13 @@ Assignments
 
 :title: Assignments
 :sortorder: 2
-:status: hidden
 
 The assignments will be done in groups comprised of four or five students. The
 groups will be formed to mix students from the participating universities and
-differing disciplines. The groups will be assigned the first day with an
-opportunity to get to know each other. You'll perform your experiment on one or
-more riders from your group and their chosen human-powered wheeled vehicle.
+differing disciplines. The groups will be assigned before arrival. You'll have
+opportunity to get to know each other on the first day. You'll perform your
+experiment on one or more riders from your group and their chosen human-powered
+wheeled vehicle.
 
 Groups will need to make use of simple tools and accessible data at your
 disposal: tape measures, kilometer markers, stopwatches, smartphone sensors,
@@ -47,9 +47,10 @@ Assignment 2: Estimate Athlete Power Capacity
 
 The objective of this assignment is to estimate aerobic capacity for at least
 two members of your group and anaerobic capacity for at least one member of
-your group. Each capacity type estimate should be based off of data your group
-collects, but should be supplemented or supported by values found in relevant
-scientific literature.
+your group. The aerobic  capacity type estimate should be based off of data
+your group collects, but should be supplemented or supported by values found in
+relevant scientific literature. The anaerobic can come from literature if an
+appropriate experiment cannot be performed.
 
 The aims are to:
 
@@ -66,25 +67,26 @@ Assignment 3: Predict Race Duration
 ===================================
 
 The objective of this assignment is to predict the duration for a race against
-time over a real cycling route between 400 and 1000 meters long for at least
-one member of your group and two scenarios of your choice. A windless, flat,
-straight route will offer an easier prediction whereas wind, grade, and
-directional variations will be more challenging. The complexity is your choice
-(unless mother nature makes the choice for you).
+time for multiple laps in a velodrome for at least one member of your group and
+two scenarios of your choice. If you want to do something different than a race
+against time, consult with the instructors. At least one scenario should be
+significantly different than simply a time trial of a race bike on the track.
+For example, think about tire type and pressure, aerodynamic changes, drafting,
+unusual bicycles (cargo, tandem, omafiets, etc.).
 
 The aims are to:
 
-- Develop a computational model to estimate the race time for your chosen route
+- Develop a computational model to estimate the race time in the velodrome
   based on collected data and work done in the prior assignments.
 - Collect necessary data for the race to make your time prediction using your
   cycling power balance model.
-- Show the effect of a self-chosen modification of your vehicle/rider or course
-  variation on the final time.
+- Compare the two scenarios and how well you were able to predict both,
+  explaining why.
 - Report on your experiment and result in the light of available information
   from sports engineering scientific literature.
 
-In total you will need data from a minimum of 2 trials: with and without a
-vehicle/rider modification or course variation.
+In total you will need data from a minimum of 2 trials, one data set from each
+scenario.
 
 Assessment
 ==========
