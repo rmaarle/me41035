@@ -44,35 +44,34 @@ Workshop
    |_|           14:00-17:00  Free      Work on assignment 1                                                           Sports Hall
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jun-30      10:00-12:00  Free      Work on assignment 1                                                           Hall G
-   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Sports Hall
+   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore                Sports Hall
    |_|           14:00-16:00  Free      Work on assignment 1                                                           Sports Hall
    |_|           16:00-17:00  Activity  Report on assignment 1                              Jason Moore, John Hart     Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-01      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk         Hall G
    |_|           13:00-15:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         Hall G
-   |_|           15:00-16:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart     Hall G
-   |_|           16:00-17:00  Free      Work on assignment 2                                                           Hall G
+   |_|           15:00-15:30  Activity  Assignment 2 Introduction                           Jason Moore                Hall G
+   |_|           15:30-17:00  Free      Work on assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                Hall G
    |_|           13:00-14:00  Lecture   Wheelchair Power Generation                         Marit van Dijk             Hall G
-   |_|           14:00-17:00  Free      Work on assignment 2                                                           Hall G
+   |_|           14:00-19:00  Activity  V̇O2max Experiments                                  Marjolein Scheffers        TBA
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    T-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling                    Mark de Zee                Hall G
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Hall G
    |_|           14:00-16:00  Workshop  Using your Musculoskeletal Model                    Mark de Zee                Hall G
-   |_|           16:00-17:00  Activity  Report on Assignment 2                                                         Hall G
+   |_|           16:00-17:00  Free      Work on assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    W-Jul-06      10:00-12:00  Lecture   Sports Biomechanics                                 Marcus Dunn                Hall G
-   |_|           13:00-14:00  Activity  Assignment 3 Introduction                           Jason Moore, John Hart     Hall G
    |_|           14:00-16:00  Lecture   Bicycle design in industry and education            Stephan Odenwald           Hall G
-   |_|           16:00-17:00  Free      Work on assignment 3                                                           Hall G
+   |_|           16:00-17:00  Activity  Report on Assignment 2                                                         Hall G
+   |_|           17:00-17:30  Activity  Assignment 3 Introduction                           Jason Moore, John Hart     Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-07      10:00-12:00  Lecture   Doping in Sports                                    Frans van der Helm         Hall G
-   |_|           13:00-16:00  Free      Work on assignment 3                                                           Hall G
-   |_|           16:00-17:00  Activity  Report on Assignment 3                              Jason Moore, John Hart     Hall G
+   |_|           13:00-17:00  Free      Work on assignment 3                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   F-Jul-08      8:00-10:30   Travel    Travel to Race Track (Depart @ 8:15)
+   F-Jul-08      8:00-10:30   Travel    Travel to Race Track (Depart @ 8:15)                                           TBA
    |_|           10:30-12:30  Activity  Final time trials                                                              Apeldoorn Velodrome
    |_|           13:00-14:00  Activity  Prep results                                                                   Apeldoorn Velodrome
    |_|           14:00-17:00  Activity  Final presentations                                 Jason Moore, John Hart     Apeldoorn Velodrome
