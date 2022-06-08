@@ -22,14 +22,6 @@ Work On Assignments
 Workshop
    Hands-on workshop tied to a lecture topic.
 
-.. topic:: **Draft Schedule**
-   :class: alert alert-warning
-
-   The following schedule is simply a draft template and nothing is yet fixed.
-   For early planning purposes **reserve 8:00-22:00 for each day of the course
-   in your personal agenda**. If the course is in person there will also be
-   travel to sites around the Netherlands on some days, taking much of the day.
-
 .. table::
    :widths: auto
    :class: table table-striped table-bordered
@@ -51,14 +43,15 @@ Workshop
    |_|           13:00-14:00  Lecture   Sports Engineering at Team DSM                      Harm Ubbens                Hall G
    |_|           14:00-17:00  Free      Work on assignment 1                                                           Sports Hall
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jun-30      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         Hall G
+   R-Jun-30      10:00-12:00  Free      Work on assignment 1                                                           Hall G
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Jason Moore, John Hart     Sports Hall
    |_|           14:00-16:00  Free      Work on assignment 1                                                           Sports Hall
    |_|           16:00-17:00  Activity  Report on assignment 1                              Jason Moore, John Hart     Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-01      10:00-12:00  Lecture   Mechanical Power in Sports                          Eline van der Kruk         Hall G
-   |_|           13:00-14:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart     Hall G
-   |_|           15:00-17:00  Free      Work on assignment 2                                                           Hall G
+   |_|           13:00-15:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         Hall G
+   |_|           15:00-16:00  Activity  Assignment 2 Introduction                           Jason Moore, John Hart     Hall G
+   |_|           16:00-17:00  Free      Work on assignment 2                                                           Hall G
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                Hall G
