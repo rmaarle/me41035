@@ -56,7 +56,7 @@ Workshop
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-04      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                `Building 34`_ `Hall G`_
    |_|           13:00-14:00  Lecture   Wheelchair Power Generation                         Marit van Dijk             `Building 34`_ `Hall G`_
-   |_|           14:00-19:00  Activity  V̇O2max Experiments                                  Marjolein Scheffers        TBA
+   |_|           14:00-19:00  Activity  V̇O2max Experiments                                  Marjolein Scheffers        `Building 34`_ Hall I
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    T-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling                    Mark de Zee                `Building 34`_ `Hall G`_
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, Hart, Scheffers     `Building 34`_ `Hall G`_
