@@ -92,7 +92,7 @@ Assessment
 ==========
 
 **All assessment documents should be submitted as a PDF to the "Files" area of
-your group's private channel in the "Sports Engineering 2021" MS Team.**
+your group's private channel in the "Sports Engineering 2022" MS Team.**
 
 Intermediate Reporting
 ----------------------
@@ -112,8 +112,8 @@ Final Report
 
 Each group should submit a PDF final report with maximum of 6 pages of content
 including methods, results, and discussion based on the three intermediate
-reports and your final work by 23:59 Friday following the last day. At least
-six scientific literature resources should be used and cited. The title, author
+reports and your final work by 23:59 Friday July 15th, 2022. At least six
+scientific literature resources should be used and cited. The title, author
 list, and bibliography do not count against the page limit.
 
 Final Presentation
