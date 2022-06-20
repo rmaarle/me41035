@@ -30,7 +30,7 @@ Workshop
    Date          Time (CEST)  Type      Topic                                               Instructor                 Location
    ============  ===========  ========  ==================================================  =========================  ===================
    M-Jun-27      10:00-12:00  Lecture   Introduction                                        John Hart                  `Building 34`_ `Hall G`_
-   |_|           13:00-14:00  Activity  Meet your group                                     Moore, Hart, Scheffers     `Building 34`_ `Hall G`_
+   |_|           12:30-14:00  Activity  Meet your group and kickoff activity                Moore, Hart, Scheffers     `Building 34`_ `Hall G`_
    |_|           14:00-16:00  Lecture   Bicycle Tires & Rolling Resistance                  Andrew Dressel             `Building 34`_ `Hall G`_
    |_|           16:00-17:00  Activity  Sports Engineering Borrel (Social)                                             `Building 34`_ 't Lagerhuysch A-0-960
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
