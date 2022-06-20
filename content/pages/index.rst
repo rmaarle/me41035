@@ -164,39 +164,40 @@ Course Organizers
 Communication
 =============
 
-In the event of an online offering, we will make use of the `Microsoft Teams`_
-platform for all course communication. We will use a "Team" named "Sports
-Engineering 2021" for announcements, lectures, office hours, the social, and
-channels will also be available for your group to use for group work.
-Hopefully, all communication about the class will stay within the team to
-simplify working across multiple universities and countries. Steps to getting
-access to the Sports Engineering 2022 team:
+We will make use of the `Microsoft Teams`_ platform for all course
+communication and hybrid lectures. We will use a "Team" named "Special Topics
+in Sports Engineering 2022" for announcements, hybrid lectures, and channels
+will also be available for your group to use for group work.  Hopefully, all
+communication about the class will stay within the team to simplify working
+across multiple universities and countries. Steps to getting access to the
+team:
 
 - Download and install the Microsoft Teams software (free for use on all major
   desktop platforms).
 - If you are TU Delft student or employee, open Teams and log in with your TU
-  Delft netid. Once logged in, you should see the "Sports Engineering 2021"
-  team under "Teams" in the MS Teams application. You are done.
+  Delft netid. Once logged in, you should see the "Special Topics in Sports
+  Engineering 2022" team under "Teams" in the MS Teams application. You are
+  done.
 - If you are not with TU Delft, create a free `Microsoft account`_ then check
-  the email you registered with for the course for an invitation to the Sports
-  Engineering 2022 team. The subject should be something like "You have been
-  added as a guest to Delft University of Technology in Microsoft Teams".
+  the email you registered with for the course for an invitation to the team.
+  The subject should be something like "You have been added as a guest to Delft
+  University of Technology in Microsoft Teams".
 - Click the "Open Microsoft Teams" link in the email and sign into MS Teams
-  with your Microsoft account. You should see the "Sports Engineering 2021"
-  team under "Teams" in the MS Teams application. You are done.
+  with your Microsoft account. You should see the "Special Topics in Sports
+  Engineering 2022" team under "Teams" in the MS Teams application. You are
+  done.
 
 It is important to access the team the week before class and report any issues
-to D.Boric@tudelft.nl for access help. We have had some connection issues
-already.
+to D.Boric@tudelft.nl for access help. We have had some connection issues in
+the past.
 
 If you are not registered for the course but would like to join the live
-lectures, send an email to D.Boric@tudelft.nl with a request to be added. All
-lectures will also be posted to Youtube by the end of June.
+lectures, send an email to D.Boric@tudelft.nl with a request to be added.
 
 To join the live lectures and activities:
 
 1. Open the Microsoft Teams application.
-2. Select "Teams" and then "Sports Engineering 2021".
+2. Select "Teams" and then "Special Topics in Sports Engineering 2022".
 3. Select the "General" channel (if not already selected).
 4. Wait for the video meeting to start and select "Join" when the meeting is
    active.
