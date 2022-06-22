@@ -74,9 +74,10 @@ Workshop
    |_|           14:00-17:45  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-08      8:00-10:30   Travel    Travel to Race Track (Depart @ 8:15)                                           `TU Delft Aula`_
-   |_|           10:30-12:30  Activity  Final time trials                                                              `Apeldoorn Velodrome`_
-   |_|           13:00-14:00  Activity  Prep results                                                                   `Apeldoorn Velodrome`_
-   |_|           14:00-17:00  Activity  Final presentations                                 Moore, Hart, Dressel       `Apeldoorn Velodrome`_
+   |_|           10:30-12:00  Activity  Preparation                                                                    `Apeldoorn Velodrome`_
+   |_|           12:00-13:00  Activity  Lunch (catered)                                                                `Apeldoorn Velodrome`_
+   |_|           13:00-15:00  Activity  Time trials                                         Moore, Hart, Scheffers     `Apeldoorn Velodrome`_
+   |_|           15:00-17:00  Activity  Final presentations                                 Moore, Hart, Dressel       `Apeldoorn Velodrome`_
    |_|           17:00-19:00  Travel    Return to TU Delft                                                             `TU Delft Aula`_
    ============  ===========  ========  ==================================================  =========================  ===================
 
