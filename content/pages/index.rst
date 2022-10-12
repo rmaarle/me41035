@@ -76,11 +76,11 @@ material–athlete interaction. More specifically, students should be:
 Dates
 =====
 
-.. topic:: 2022 Dates
+.. topic:: 2023 Dates
    :class: alert alert-warning
 
-   The course will occur over the two weeks of **June 27, 2022 to July 8,
-   2022** with activities scheduled throughout the day from Monday to Friday
+   The course will occur over the two weeks of **July 3, 2023 to July 14,
+   2023** with activities scheduled throughout the day from Monday to Friday
    each week. The course will be in person in Delft!
 
 Credits
@@ -98,15 +98,15 @@ a guaranteed number of slots for students from each of the participating
 universities. Excess students will be placed on a waiting list. Slots will be
 filled on a first come, first serve basis.
 
-**The registration deadline is March 1, 2022.**
+**The registration deadline is March 1, 2023.**
 
 Registration timeline:
 
-- February 1, 2022: Registration is open.
-- March 1, 2022: Registration deadline.
+- February 1, 2023: Registration is open.
+- March 1, 2023: Registration deadline.
 - Mid March: Students are informed of their team placement and asked to
   confirm.
-- May 1, 2022: We will announce if the course has to revert to online-only.
+- May 1, 2023: We will announce if the course has to revert to online-only.
   **Do not purchase travel/accomodation before May 1.** Final confirmation of
   participation.
 
