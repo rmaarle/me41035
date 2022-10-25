@@ -125,8 +125,8 @@ Reach out to your university's coordinator to find out how to register:
    * - Delft University of Technology
      - 20
      - Email coordinator
-     - Dijana Boric
-     - D.Boric@tudelft.nl
+     - Nicole Kleven
+     - N.J.M.Kleven@tudelft.nl
    * - Sheffield Hallam University
      - 5
      - Email coordinator
@@ -156,10 +156,10 @@ Course Organizers
 | BioMechanical Engineering, Delft University of Technology
 | j.k.moore@tudelft.nl
 |
-| Dijana Boric
+| Nicole Kleven
 | Office Manager
 | Sports Engineering Institute, Delft University of Technology
-| D.Boric@tudelft.nl
+| N.J.M.Kleven@tudelft.nl
 
 Communication
 =============
