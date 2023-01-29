@@ -4,6 +4,12 @@
 .. |_| unicode:: 0xA0
    :trim:
 
+.. topic:: Schedule Will Change
+   :class: alert alert-warning
+
+   This describes the schedule from 2022. The schedule and lectures will change
+   for 2023 and will be finalized just before the course starts.
+
 **Listed times are CEST (UTC +2).**
 
 Office Hours

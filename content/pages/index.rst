@@ -106,9 +106,7 @@ Registration timeline:
 - March 1, 2023: Registration deadline.
 - Mid March: Students are informed of their team placement and asked to
   confirm.
-- May 1, 2023: We will announce if the course has to revert to online-only.
-  **Do not purchase travel/accomodation before May 1.** Final confirmation of
-  participation.
+- May 1, 2023: Final confirmation of participation.
 
 Reach out to your university's coordinator to find out how to register:
 
@@ -151,7 +149,7 @@ Reach out to your university's coordinator to find out how to register:
 Course Organizers
 =================
 
-| Jason K. Moore
+| Dr. Jason K. Moore
 | Assistant Professor
 | BioMechanical Engineering, Delft University of Technology
 | j.k.moore@tudelft.nl
@@ -166,7 +164,7 @@ Communication
 
 We will make use of the `Microsoft Teams`_ platform for all course
 communication and hybrid lectures. We will use a "Team" named "Special Topics
-in Sports Engineering 2022" for announcements, hybrid lectures, and channels
+in Sports Engineering 2023" for announcements, hybrid lectures, and channels
 will also be available for your group to use for group work.  Hopefully, all
 communication about the class will stay within the team to simplify working
 across multiple universities and countries. Steps to getting access to the
@@ -176,7 +174,7 @@ team:
   desktop platforms).
 - If you are TU Delft student or employee, open Teams and log in with your TU
   Delft netid. Once logged in, you should see the "Special Topics in Sports
-  Engineering 2022" team under "Teams" in the MS Teams application. You are
+  Engineering 2023" team under "Teams" in the MS Teams application. You are
   done.
 - If you are not with TU Delft, create a free `Microsoft account`_ then check
   the email you registered with for the course for an invitation to the team.
@@ -184,20 +182,20 @@ team:
   University of Technology in Microsoft Teams".
 - Click the "Open Microsoft Teams" link in the email and sign into MS Teams
   with your Microsoft account. You should see the "Special Topics in Sports
-  Engineering 2022" team under "Teams" in the MS Teams application. You are
+  Engineering 2023" team under "Teams" in the MS Teams application. You are
   done.
 
 It is important to access the team the week before class and report any issues
-to D.Boric@tudelft.nl for access help. We have had some connection issues in
-the past.
+to N.J.M.Kleven@tudelft.nl for access help. We have had some connection issues
+in the past.
 
 If you are not registered for the course but would like to join the live
-lectures, send an email to D.Boric@tudelft.nl with a request to be added.
+lectures, send an email to N.J.M.Kleven@tudelft.nl with a request to be added.
 
 To join the live lectures and activities:
 
 1. Open the Microsoft Teams application.
-2. Select "Teams" and then "Special Topics in Sports Engineering 2022".
+2. Select "Teams" and then "Special Topics in Sports Engineering 2023".
 3. Select the "General" channel (if not already selected).
 4. Wait for the video meeting to start and select "Join" when the meeting is
    active.
@@ -212,7 +210,7 @@ to the files.
 More Information
 ================
 
-- `TU Delft 2020/2021 Course Description <https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=53782>`_
+- `TU Delft 2022/2023 Course Description <https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60825>`_
 - `Summary blogpost from 2019 <https://engineeringsport.co.uk/2019/08/15/msc-special-topics-2019/>`_
 - `Video from 2016 <https://youtu.be/vwiljFZIr4Q>`_
 

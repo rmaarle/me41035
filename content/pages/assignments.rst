@@ -5,6 +5,12 @@ Assignments
 :title: Assignments
 :sortorder: 2
 
+.. topic:: Assignments May Change
+   :class: alert alert-warning
+
+   This describes the assignments from 2022. They may change for 2023 and will
+   be finalized just before the course starts.
+
 The assignments will be done in groups comprised of four or five students. The
 groups will be formed to mix students from the participating universities and
 differing disciplines. The groups will be assigned before arrival. You'll have
