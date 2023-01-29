@@ -4,6 +4,7 @@ Assignments
 
 :title: Assignments
 :sortorder: 2
+:status: hidden
 
 .. topic:: Assignments May Change
    :class: alert alert-warning
