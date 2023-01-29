@@ -5,6 +5,12 @@
 :date: 2021-03-04
 :front: true
 
+.. figure:: https://objects-us-east-1.dream.io/mechmotum/special-topics-group-photo-velodrome-2022.jpg
+   :align: center
+   :width: 60%
+
+   Group photo at the Apeldoorn velodrome in 2022.
+
 *Special Topics in Sports Engineering* is an inter-university course for Master
 students in Mechanical Engineering, Movement Sciences, Sport Sciences, and
 other related MSc programs. The course is organized as a two-week intensive
