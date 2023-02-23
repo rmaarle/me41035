@@ -5,7 +5,7 @@
 :date: 2021-03-04
 :front: true
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/special-topics-group-photo-velodrome-2022.jpg
+.. figure:: https://moorepants.info/mechmotum-bucket/special-topics-group-photo-velodrome-2022.jpg
    :align: center
    :width: 60%
 
@@ -225,7 +225,7 @@ Partners
 
 Special Topics in Sports Engineering is part of A4SEE_ a Erasmus+ Knowledge Alliance project funded by the EU.
 
-.. image:: https://objects-us-east-1.dream.io/mechmotum/logo-a4see-484x300.png
+.. image:: https://moorepants.info/mechmotum-bucket/logo-a4see-484x300.png
    :align: center
    :target: http://a4see.com
    :alt: A4SEE Logo
@@ -238,21 +238,21 @@ Participating Universities
 .. list-table::
    :class: table table-bordered
 
-   * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-aalborg.png
+   * - .. image:: https://moorepants.info/mechmotum-bucket/logo-aalborg.png
           :height: 100px
           :align: center
-     - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-chemnitz.png
+     - .. image:: https://moorepants.info/mechmotum-bucket/logo-chemnitz.png
           :height: 100px
           :align: center
-     - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-sheffield.png
+     - .. image:: https://moorepants.info/mechmotum-bucket/logo-sheffield.png
           :height: 100px
           :align: center
-   * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-tudelft.png
+   * - .. image:: https://moorepants.info/mechmotum-bucket/logo-tudelft.png
           :height: 100px
           :align: center
-     - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-wien.png
+     - .. image:: https://moorepants.info/mechmotum-bucket/logo-wien.png
           :height: 100px
           :align: center
-     - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-vu.png
+     - .. image:: https://moorepants.info/mechmotum-bucket/logo-vu.png
           :align: center
           :height: 100px

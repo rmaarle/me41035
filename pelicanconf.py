@@ -63,9 +63,9 @@ else:
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
 SITESUBTITLE = 'ME41035 2023 Q4'
-SITEIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/cyclist-sketch-john-hart.png'
+SITEIMAGE = 'https://moorepants.info/mechmotum-bucket/cyclist-sketch-john-hart.png'
 # INSTITUTEIMAGE should be 100px in height
-#INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
+#INSTITUTIONIMAGE = 'https://moorepants.info/mechmotum-bucket/tu-delft-logo-233x100.png'
 DESCRIPTION = ''
 # pelican-alchemy removed the original theme.css, so bring it back.
 THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']
