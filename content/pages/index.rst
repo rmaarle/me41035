@@ -164,6 +164,11 @@ Course Organizers
 | Office Manager
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
+|
+| Ragnhild Maarleveld
+| Teaching Assistant 
+| Sports Engineering Institute, Delft University of Technology
+| R.Maarleveld@student.tudelft.nl
 
 Communication
 =============
