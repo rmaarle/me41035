@@ -9,16 +9,18 @@ Travel & Accomodation
 Accommodation options
 =====================
 
-- Studenthotel: https://www.thestudenthotel.com/delft/
-- Camping: https://www.delftsehout.nl/
+- `The Social Hub (previously called The studenthotel) <https://www.thesocialhub.co/delft/>`_ 
+- `Camping: Delftse Hout <https://www.delftsehout.nl/>`_ 
 - Apartments for rent:
 
-   - https://www.vrbo.com/nl-nl/vakantiewoning/p2271929vb?adultsCount=2&arrival=2022-06-27&departure=2022-07-08&uni_id=2836805
-   - https://www.vrbo.com/nl-nl/vakantiewoning/p7151722?adultsCount=5&arrival=2022-06-27&departure=2022-07-08&uni_id=6311690
-   - https://www.vrbo.com/nl-nl/search/keywords:delft-zuid-holland-nederland/arrival:2022-06-26/departure:2022-07-08/minNightlyPrice/0?filterByTotalPrice=true&petIncluded=false&ssr=true&adultsCount=5&childrenCount=0&pinnedPropertyLabel=pinnedPropertyDatesAvailable
+   -  `Delft: Vakantiewoningen | Vrbo Nederland <https://www.vrbo.com/nl-nl/search/keywords:delft-zuid-holland-nederland/arrival:2023-07-02/departure:2023-07-14/minNightlyPrice/0?adultsCount=4&petIncluded=false&filterByTotalPrice=true&pinnedPropertyLabel=pinnedPropertyDatesAvailable&ssr=true>`_
+   - `Airbnb <https://www.airbnb.com/s/Delft/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&price_filter_input_type=0&price_filter_num_nights=12&search_type=autocomplete_click&date_picker_type=calendar&flexible_trip_dates%5B%5D=july&checkin=2023-07-02&checkout=2023-07-14&adults=3&source=structured_search_input_header&query=Delft&place_id=ChIJ_VhfUcO1xUcRPdRLxaNcsIk>`_
 
-- Hostel: Delft https://reservations.cubilis.eu/hostel-delft-delft
-- The Hague https://www.thegoldenstork.com/
+- Hostels for rent: 
+   - `Hostel Delft <https://www.hostelworld.com/st/hostels/p/94209/hostel-delft/>`_
+   - `The Hague: The golden stork <https://www.thegoldenstork.com/>`_
+   - `Stayokay The Hague <https://www.stayokay.com/nl/hostel/den-haag?msclkid=fc1360a1810718c174fd03730f975f40&utm_source=bing&utm_medium=cpc&utm_campaign=NL%26BE%20%7C%20Branded%20%2B%20Generic&utm_term=stayokay%20den%20haag&utm_content=Hostel%20%7C%20Den%20Haag>`_
+   - `Stayokay Rotterdam <https://www.stayokay.com/nl/hostel/rotterdam?utm_medium=google&utm_source=paid_search&utm_campaign=branded_nl&gad=1&gclid=CjwKCAjw67ajBhAVEiwA2g_jEFI8Z8SCuobiyr1-vghNBvD9l7DZW_42j77vj64Gd0o655efBCH1MRoCadUQAvD_BwE>`_
 
 Travel information
 ==================
@@ -41,7 +43,7 @@ Apart from Schiphol International Airport there is the smaller and more Western
 European orientated `Rotterdam The Hague Airport
 <https://www.rotterdamthehagueairport.nl/en/>`_. The airport is approximately a
 15-minute drive from the centre of Delft. Flying into Brussels or Antwerp is
-also an option. Trains travel from Belgium to Rotterdam regularly (including
+also an option. Trains travel from Belgium to Rotterdam  regularly (including
 high speed Thalys).
 
 Ferries
@@ -49,21 +51,21 @@ Ferries
 
 Participants coming from the UK or Scandinavia can take one of the ferries from
 and to Rotterdam or the Hook of Holland. A train-ride from the Hook of Holland
-takes about 40 minutes to Delft, one from Rotterdam approximately 13 minutes.
+takes about 40 minutes to Delft, one from Rotterdam city centre approximately 13 minutes.
 
 Taxi
    There are taxis available at the airport, or a reservation can be made
-   through the `website <https://www.travel-schipholtaxi.nl>`_. A return trip to
-   Schiphol costs €80.00. Travel time from Schiphol to Amsterdam is
+   through the `website <https://www.travel-schipholtaxi.nl>`_. A trip to
+   Schiphol costs approximatly €80.00. Travel time from Schiphol to Amsterdam is
    approximately 40 minutes outside of the rush hours.
 By train
    The trains run directly underneath the terminals, and the platforms can be
    reached by elevator from the airport’s main entrance hall. Trains to Delft
    run every 15 minutes. A direct connection without a transfer runs every 30
-   minutes (direction Vlissingen). Be sure to read the sign boards above the
-   platforms to be sure that Delft is listed. The journey takes about 45
-   minutes. One-way tickets can be bought at a ticket machine on the platform
-   or in the main entrance hall for €16.30 (first class) or €9.60 (second
+   minutes (direction Dordrecht). Be sure to read the sign boards above the
+   platforms to be sure that Delft is listed. The journey takes about 40
+   minutes. One-way tickets can be bought at a ticket machine
+   in the main entrance hall for €20.72 (first class) or €12.60 (second
    class). Train tickets do not require a reservation and can be paid for by
    debit card or credit card. Schedules can be found on the website of NS.
    Eurostar connect England to the Netherlands.
@@ -83,8 +85,8 @@ center or on campus.
 Bus services
 ------------
 
-Tram line 1 and buses stop right outside the front of the station. Bus 40, 69
-and 174 will take you to the conference venue ‘Aula TU Delft’. Tram 1 will take
+Tram line 1 and buses stop right outside the front of the station. Bus
+174 will take you to the conference venue ‘Aula TU Delft’. Tram 1 will take
 you to The Hague in about 30 minutes and to Scheveningen beach in about 45
 minutes.
 
