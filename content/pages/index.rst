@@ -160,7 +160,7 @@ Course Organizers
 | BioMechanical Engineering, Delft University of Technology
 | j.k.moore@tudelft.nl
 |
-| Nicole Kleven
+| Nicole Kleven 
 | Office Manager
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
@@ -174,7 +174,7 @@ Communication
 =============
 
 We will make use of the `Microsoft Teams`_ platform for all course
-communication and hybrid lectures. We will use a "Team" named "Special Topics
+communication. We will use a "Team" named "Special Topics
 in Sports Engineering 2023" for announcements, hybrid lectures, and channels
 will also be available for your group to use for group work.  Hopefully, all
 communication about the class will stay within the team to simplify working
@@ -197,19 +197,11 @@ team:
   done.
 
 It is important to access the team the week before class and report any issues
-to N.J.M.Kleven@tudelft.nl for access help. We have had some connection issues
+to R.Maarleveld@student.tudelft.nl for access help. We have had some connection issues
 in the past.
 
-If you are not registered for the course but would like to join the live
-lectures, send an email to N.J.M.Kleven@tudelft.nl with a request to be added.
-
-To join the live lectures and activities:
-
-1. Open the Microsoft Teams application.
-2. Select "Teams" and then "Special Topics in Sports Engineering 2023".
-3. Select the "General" channel (if not already selected).
-4. Wait for the video meeting to start and select "Join" when the meeting is
-   active.
+If you are not registered for the course but would like to join the
+lectures, send an email to R.Maarleveld@student.tudelft.nl with a request to be added.
 
 Lecturers may upload any files for the students to the General channel's
 "Files" "Class Materials" folder. All members of the MS Team will have access
